@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/qgs2postgis" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
